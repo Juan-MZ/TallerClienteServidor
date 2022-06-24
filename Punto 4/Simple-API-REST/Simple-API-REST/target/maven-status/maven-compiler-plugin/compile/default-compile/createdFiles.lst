@@ -1,0 +1,7 @@
+co\unicauca\products\access\IProductRepositoryImplArrays2.class
+co\unicauca\products\domain\entity\Product.class
+co\unicauca\products\access\IProductRepositoryImplArrays.class
+co\unicauca\products\AppConfiguration.class
+co\unicauca\products\domain\service\ProductService.class
+co\unicauca\products\access\IProductRepository.class
+co\unicauca\products\presentation\rest\ProductController.class

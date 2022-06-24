@@ -1,0 +1,7 @@
+co\unicauca\clients\presentation\rest\ClientController.class
+co\unicauca\clients\access\IClientRepositoryImplArrays2.class
+co\unicauca\clients\domain\service\ClientService.class
+co\unicauca\clients\access\IClientRepository.class
+co\unicauca\clients\access\IClientRepositoryImplArrays.class
+co\unicauca\clients\AppConfiguration.class
+co\unicauca\clients\domain\entity\Client.class
